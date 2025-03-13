@@ -20,7 +20,7 @@ Welcome to the **Multiplayer Survival Game**! This is an open-world survival gam
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HlnefzgerSchoolAct/multiplayer-survival-game.git
+   git clone https://github.com/HlnefzgerSchoolAct/Game-.git
    cd multiplayer-survival-game
    ```
 
